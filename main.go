@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/gmauleon/alertmanager-zabbix-webhook/webhook"
+	"github.com/its-bussdev/alertmanager-zabbix-webhook/webhook"
 	"github.com/sirupsen/logrus"
 	"os"
 )
